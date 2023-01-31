@@ -1,1 +1,1 @@
-Description of Lab
+The purpose of the Week 2 Lab Assignment was to create a new MVC project. After correctly creating the project, we edited the text information on the Index.cshtml file, created & added to an "images" folder in wwwroot, created a new css StyleSheet called custom.css, and added the new StyleSheet to the _Layout.cshtml file. We concluded by running the program to see a working project.
