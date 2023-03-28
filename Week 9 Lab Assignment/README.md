@@ -1,1 +1,1 @@
-Enter lab description
+In the Week 9 Lab Assignment, we added to links onto the navigation bar (FAQ and Tools). We added a Razor view for both FAQ and Tools to the Views/Home folder. We added action methods in the HomeController. We set up session state services.
