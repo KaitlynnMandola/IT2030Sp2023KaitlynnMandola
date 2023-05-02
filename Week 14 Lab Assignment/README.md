@@ -1,1 +1,1 @@
-description
+In this week's lab assignment, we added NuGet packages, added keys to the ContactModel and ProductModel classes, created a Data folder, added a DbContext class, and used scaffolding to produce CRUD pages for the Product model.
